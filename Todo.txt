@@ -1,0 +1,4 @@
+Weekend work
+Learn GIT
+Learn Raspberry PI compute3 module
+Use GEANY or other IDE?
