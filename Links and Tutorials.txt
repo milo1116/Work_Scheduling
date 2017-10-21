@@ -1,0 +1,11 @@
+Remove device tutorial (editing locally but compiling remotely since Raspbian has all the libraries)
+==================================================================
+https://netbeans.org/kb/docs/cnd/remotedev-tutorial.html
+
+Configuring for C\C++
+=======================
+https://netbeans.org/community/releases/80/cpp-setup-instructions.html
+
+Youtube video on downloading Netbeans on Raspbian OS (note: download as OS independent)
+=======================================================================================
+http://helloraspberrypi.blogspot.com/2015/03/install-netbeans-ide-on-raspberry-pi.html
